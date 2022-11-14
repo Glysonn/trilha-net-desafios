@@ -3,7 +3,7 @@ namespace DesafioPOO.Models
     public abstract class Smartphone
     {
         public string Numero { get; set; }
-        private string Modelo;
+        protected string Modelo;
         private string IMEI;
         private int Memoria;
 
