@@ -7,6 +7,10 @@ namespace DesafioPOO.Models
         private string IMEI;
         private int Memoria;
 
+        public Smartphone (string numero)
+        {
+            this.Numero = numero;
+        }
         public Smartphone(string numero, string modelo, string imei, int memoria)
         {
             this.Numero = numero;
