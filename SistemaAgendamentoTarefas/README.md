@@ -1,4 +1,6 @@
-# NECESSÁRIO ALTERAR A CONNECTION STRING!!!
+# Sistema de Agendamento de Tarefas
+
+##Obs.: NECESSÁRIO ALTERAR A CONNECTION STRING!!!
 
 
 ## Desafio de projeto
